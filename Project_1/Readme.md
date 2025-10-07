@@ -226,4 +226,3 @@ This project effectively demonstrates the application of several key SQL concept
 * **Common Table Expressions (CTEs):** Use of the `WITH` clause to improve the readability and structure of complex queries.
 * **Conditional Logic:** Implementation of `CASE` statements to create custom categories and segment data dynamically.
 * **Data Uniqueness:** Using `COUNT(DISTINCT ...)` to accurately count unique entities.
-````
