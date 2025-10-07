@@ -1,4 +1,3 @@
-````markdown
 # SQL-Based Retail Sales Analysis
 
 ### Overview
