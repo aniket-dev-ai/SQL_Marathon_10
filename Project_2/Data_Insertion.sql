@@ -95,7 +95,7 @@ VALUES ('IS106', 'C106', 'Animal Farm', '2024-03-10', '978-0-330-25864-8', 'E104
        ('IS120', 'C110', 'The Road', '2024-03-24', '978-0-670-81302-4', 'E108');
 
 
--- inserting into return table 
+-- inserting into return table  	
 INSERT INTO return_status(return_id, issued_id, return_date, return_book_name, return_book_isbn)
 VALUES ('RS104', 'IS106', '2024-05-01', 'Animal Farm', '978-0-330-25864-8'),
        ('RS105', 'IS107', '2024-05-03', 'One Hundred Years of Solitude', '978-0-14-118776-1'),
